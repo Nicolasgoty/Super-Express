@@ -1,23 +1,34 @@
+#as{
+    background-color: darkred;
+    padding: 30px;
+    margin: -8px;
+}
+
 h1{
     text-align: center;
     font-size: xx-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: none;
-    text-decoration-color: blue;
-    color: rgb(0, 0, 97);
+    text-decoration-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+  
 }
 #bb{
     top: 284px;
-    width:  250px;
+    width: 260px;
+    margin-left: 520px;
     
 }
 #aa{
     font-size: x-large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-decoration: black;
+    text-align: center;
 }
 #c{
     text-decoration: none;
+    text-align: center;
+    font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
 footer{
@@ -27,5 +38,19 @@ footer{
 }
 #cc{
     font-size: x-large;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
+#ah{
+    margin-left: 360px;
+}
+#q{
+    text-align: center;
+    background-color: darkred;
+    margin: -8px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
